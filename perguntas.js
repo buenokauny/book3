@@ -1,7 +1,7 @@
 criaCartao(
     'Dinheiro',
     'É possivel ter dinheiro e ser feliz?',
-    ' Fazer o que gosta!!!'
+    'Uma boa condição econõmica pode até não gerar satisfação e bem-estar diretamente,mas ajuda bastante!'
 )
 
 criaCartao(
