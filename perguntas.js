@@ -1,6 +1,6 @@
 criaCartao(
     'Dinheiro',
-    'O que precisa para ser feliz?',
+    'É possivel ter dinheiro e ser feliz?',
     ' Fazer o que gosta!!!'
 )
 
