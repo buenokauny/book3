@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'Conceito',
     'O que é conceito de dinheiro',
-    '@rasinformática'
+    'É uma moeda corrente valor representativo de qualquer quantia'
 )
 
 criaCartao(
