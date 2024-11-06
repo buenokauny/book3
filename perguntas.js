@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'Conceito',
-    'Qual o melhor canal para aprender informática',
+    'O que é conceito de dinheiro',
     '@rasinformática'
 )
 
