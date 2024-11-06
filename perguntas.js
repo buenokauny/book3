@@ -12,7 +12,7 @@ criaCartao(
 
 criaCartao(
     'Internet',
-    'A que mais se dedica as aulas do Prof. Rafael?',
+    'Como ganhar $100 por dia na internet?',
     'Estou em dúvida'
 )
 
