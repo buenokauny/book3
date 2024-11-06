@@ -11,7 +11,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Qual é a melhor turma do CERB',
+    'Internet',
     'A que mais se dedica as aulas do Prof. Rafael?',
     'Estou em dúvida'
 )
